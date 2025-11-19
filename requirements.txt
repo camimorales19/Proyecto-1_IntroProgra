@@ -2,3 +2,5 @@ streamlit
 biopython
 pandas
 matplotlib
+google-genai 
+python-dotenv
